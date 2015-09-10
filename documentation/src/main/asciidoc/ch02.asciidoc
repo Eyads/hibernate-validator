@@ -556,7 +556,7 @@ has a `null` name.
 === Validating bean constraints
 
 The `Validator` interface is the most important object in Bean Validation. The next section shows how
-to obtain an `Validator` instance. Afterwards you'll learn how to use the different methods of the
+to obtain a `Validator` instance. Afterwards you'll learn how to use the different methods of the
 `Validator` interface.
 
 [[section-obtaining-validator]]
